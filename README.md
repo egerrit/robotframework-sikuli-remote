@@ -7,9 +7,10 @@
 ## Prerequisites
 
   1. Install [Sikuli Script](https://launchpad.net/sikuli/+download)
-  2. Download [javalib-core-1.2.jar](http://search.maven.org/remotecontent?filepath=org/robotframework/javalib-core/1.2/javalib-core-1.2.jar)
-  3. Download [xmlrpc-1.1.1.jar](http://sourceforge.net/projects/xmlrpc/files/%28New%29%20Redstone/1.1.1/redstone-xmlrpc-1.1.1.zip/download)
-  4. Download [simple-4.0.1.jar,simple-xmlrpc-1.0.jar](http://sourceforge.net/projects/xmlrpc/files/Simple%20%2B%20XML-RPC/1.0/redstone-simple-xmlrpc-1.0.zip/download)
+  2. Download SikuliRemoteServer.jar
+  3. Download [javalib-core-1.2.jar](http://search.maven.org/remotecontent?filepath=org/robotframework/javalib-core/1.2/javalib-core-1.2.jar)
+  4. Download [xmlrpc-1.1.1.jar](http://sourceforge.net/projects/xmlrpc/files/%28New%29%20Redstone/1.1.1/redstone-xmlrpc-1.1.1.zip/download)
+  5. Download [simple-4.0.1.jar,simple-xmlrpc-1.0.jar](http://sourceforge.net/projects/xmlrpc/files/Simple%20%2B%20XML-RPC/1.0/redstone-simple-xmlrpc-1.0.zip/download)
 
 ## Usage
 

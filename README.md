@@ -24,5 +24,4 @@
 
   4. Start Sikuli Remote Server
 	* java SikuliRemoteServer --port 5555
-	or
 	* java SikuliRemoteServer (default port is 8888)

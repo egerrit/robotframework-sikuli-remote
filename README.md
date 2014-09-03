@@ -23,4 +23,6 @@
     * SET CLASSPATH=C:\MyClasses\SikuliRemoteServer.jar;C:\MyClasses\sikuli-script.jar;C:\MyClasses\simple-4.0.1.jar;C:\MyClasses\xmlrpc-1.1.1.jar;C:\MyClasses\simple-xmlrpc-1.0.jar;C:\MyClasses\javalib-core-1.2.jar;%CLASSPATH%
 
   4. Start Sikuli Remote Server
-    * java -classpath C:\MyClasses\*.jar SikuliRemoteServer
+	* java SikuliRemoteServer --port 5555
+	or
+	* java SikuliRemoteServer (default port is 8888)
